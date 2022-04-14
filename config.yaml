@@ -1,9 +1,10 @@
 baseurl: /
 languageCode: en-us
-title: A Hugo website
+title: brownhr.io
 theme: "hugo-PaperMod"
 googleAnalytics: ''
 disqusShortname: ''
+label: "aoa.svg"
 ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
@@ -17,9 +18,9 @@ menu:
     - name: About
       url: /about/
     - name: GitHub
-      url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
+      url: https://github.com/brownhr
+    # - name: Twitter
+    #   url: https://twitter.com/brownhr314
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
