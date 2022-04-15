@@ -11,6 +11,4 @@ tags:
 ---
 
 
-
-<p>Hello, Topicmodels,</p>
-<p><a href="/study/study.html">Introduction</a></p>
+Hello, Topicmodels
