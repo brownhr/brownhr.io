@@ -11,7 +11,8 @@ ignoreFiles:
   - \.knit\.md$
   - \.utf8\.md$
 permalinks:
-  post: /:year/:month/:day/:slug/
+  # post: /:year/:month/:day/:slug/
+  post: /:slug/
 menu:
   main:
     - name: About
