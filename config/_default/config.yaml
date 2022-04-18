@@ -47,6 +47,6 @@ taxonomies:
   tag: tags
   series: series
   author: authors
-
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 build:
   useResourceCacheWhen: always

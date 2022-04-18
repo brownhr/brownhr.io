@@ -3,7 +3,7 @@ title: |
   Introduction
 description: |
   What is Topic Modeling
-date: '2022-04-20'
+date: '2022-04-18'
 toc: true
 weight: 1
 bibliography: "../bibliography.bib"
