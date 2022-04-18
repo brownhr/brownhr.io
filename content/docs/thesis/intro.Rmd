@@ -6,4 +6,25 @@ description: |
 date: '2022-04-20'
 toc: true
 weight: 1
+bibliography: "../bibliography.bib"
 ---
+
+## What's going on?
+
+Since the beginning of the COVID-19 pandemic, general public opinion towards public health organizations like the CDC has dramatically decreased.
+
+This change was in large part due to public misinformation campaigns and from politically-divisive messaging from the Trump administration [@piller2020; @bella2020; @jaffe2020; @dyer2020; @boynton2021].
+
+Understanding the discussions and narratives present on social media, especially through platforms like Twitter, can allow for better public health messaging campaigns.
+
+If public health organizations can better understand the concerns of real individuals, these campaigns can be more effective in not only preventing the spread of infectious diseases, but in science education in general.
+
+
+## What can Twitter do?
+
+Twitter, like most social media platforms, allows nearly-instantaneous communication between individuals, communities, fanbases, and organizations. Roughly 500,000,000 Tweets are authored each day [@twitterstatistics], giving qualitative and quantitative researchers a cornucopia of data to work with. The problem remains, however, on how to actually work with this data.
+
+## References
+<font size="2">
+  <div id="refs"></div>
+</font>
