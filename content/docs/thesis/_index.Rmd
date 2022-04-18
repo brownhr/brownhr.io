@@ -1,0 +1,7 @@
+---
+title: |
+  Mapping the Spatial Distribution of Topic Modeling
+authors: |
+  Harrison Brown
+date: '2022-04-20'
+---
