@@ -1,7 +1,7 @@
 baseURL: /
 title: |
   brownhr.io
-icon: aoa.svg
+# icon: aoa.svg
 # Uncomment when not installing with Hugo Modules
 # theme: eureka
 # Comment when not installing with Hugo Modules
