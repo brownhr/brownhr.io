@@ -21,3 +21,9 @@ This change was in large part due to public misinformation campaigns and from po
 Understanding the discussions and narratives present on social media, especially through platforms like Twitter, can allow for better public health messaging campaigns.
 
 If public health organizations can better understand the concerns of real individuals, these campaigns can be more effective in not only preventing the spread of infectious diseases, but in science education in general.
+
+## References
+<font size="2">
+  <div id="refs"></div>
+</font>
+
