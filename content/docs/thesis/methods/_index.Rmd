@@ -9,6 +9,4 @@ toc: true
 ---
 
 
-<!-- ![](/docs/thesis/methods/_index_files/methods_diagram.svg) -->
-
-
+![](/docs/thesis/methods/_index_files/methods_diagram.svg)
