@@ -1,7 +1,7 @@
 ---
 title: Vintage
 draft: false
-slogan: We are all in the gutter, but some of us are looking at the stars.
+slogan: 𝔍𝔲𝔰𝔱 𝔬𝔫 𝔱𝔥𝔢 𝔣𝔦𝔯𝔪 𝔰𝔦𝔡𝔢 𝔬𝔣 𝔣𝔞𝔩𝔩𝔦𝔫𝔤 𝔞𝔭𝔞𝔯𝔱
 imgLeft: img/aoablack.png
 imgRight: img/aoawhite.png
 

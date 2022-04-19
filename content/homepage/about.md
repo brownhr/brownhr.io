@@ -3,7 +3,7 @@ title: |
   Harrison Brown
 draft: false
 role: |
-  Adjunct Instructor
+  Graduate Student
 avatar: rye.jpeg
 bio: |
   Graduate Assistant in Geography and Planning with a specialization in R and GIS instruction
