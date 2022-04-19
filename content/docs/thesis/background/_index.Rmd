@@ -1,0 +1,32 @@
+---
+title: |
+  Background
+authors: |
+  Harrison Brown
+date: '2022-04-18'
+description: | 
+  Topic Modeling and *LDA*
+toc: true
+# draft: false
+---
+
+<!--more-->
+
+
+## Social Media as a Lens
+
+
+
+Social media sites like Twitter provide valuable insight into public opinion. While Twitter data may not be a __representative sample__ of the true population, it is nonetheless an important source of information, especially as organizations and decision makers gain a stronger web-presence.
+
+
+### Hello
+
+
+
+## world
+
+
+lo
+
+### test

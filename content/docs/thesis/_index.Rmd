@@ -9,6 +9,7 @@ date: '2022-04-18'
 lastmod: '`r Sys.Date()`'
 toc: true
 weight: 0
+bibliography: "../bibliography.bib"
 ---
 
 ## What's going on?

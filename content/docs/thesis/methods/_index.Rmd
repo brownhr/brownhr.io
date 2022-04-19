@@ -7,3 +7,8 @@ date: '2022-04-18'
 toc: true
 
 ---
+
+
+<!-- ![](/docs/thesis/methods/_index_files/methods_diagram.svg) -->
+
+
